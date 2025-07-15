@@ -1,3 +1,5 @@
+// Sistema básico de vehículos
+
 class Vehiculo{
     constructor(marca,modelo,año){
         this.marca = marca;
